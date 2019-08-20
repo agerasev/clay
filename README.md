@@ -1,3 +1,6 @@
+### **[MOVED]**
+### This repository was moved to [clay-rs](https://github.com/clay-rs) organization.
+
 # Clay
 
 OpenCL ray/path tracer project in Rust.
